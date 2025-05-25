@@ -1,6 +1,6 @@
 # Challenge-Furia
 
-O projeto abaixo foi realizado como desafio para minha inscrição na vaga de Assistente de Eng de Software na FURIA. O primeiro desafio foi a elaboração de um chatbot, no qual treinei um modelo de IA para identificar palavras chave e responder o usuário, e o segundo foi uma solução para captar informações dos fãs da FURIA através de redes sociais.
+O projeto abaixo foi realizado como desafio para uma vaga de Assistente de Software. O primeiro desafio foi a elaboração de um Chatbot, no qual treinei um modelo de IA para identificar palavras chave e responder o usuário, e o segundo foi uma solução para captar informações dos fãs da FURIA através de redes sociais.
 
 Os arquivos com modelo de IA treinado e a interface do chatbot feita em Flutter/Dart foram enviados direto para a FURIA e não estão disponíveis aqui devido ao tamanho dos arquivos.
 Abaixo seguem as instruçoes de como usar o projeto.
