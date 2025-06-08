@@ -47,7 +47,7 @@ pip install fastapi uvicorn transformers torch pytesseract pillow tweepy
     Após instalar, adicione o caminho do executável ao código:
      " pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe' "
 
-▶ Execução do Projeto
+ Execução do Projeto
 1. Rodar a API BERT
 
 Navegue até a pasta do projeto no CMD e execute:
